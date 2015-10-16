@@ -19,7 +19,7 @@ public class FinalActivity extends AppCompatActivity {
         Intent intent = getIntent();
         String display = intent.getStringExtra("SCRIPTURE");
         TextView textView = (TextView) findViewById(R.id.fScripture);
-        textView.setText("Your personal scripture is:\n" + display);
+        textView.setText("Your favorite scripture is:\n" + display);
     }
 
     @Override
