@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/israelcarvajal/AndroidStudioProjects/FavScripture/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/israelcarvajal/AndroidStudioProjects/FavScripture/app/build/intermediates/pre-dexed/debug/classes-5e1dad20214058508aed1bbb509f401ec9afe6d2.jar" />
+    </item>
+    <item
+        jar="/Users/israelcarvajal/AndroidStudioProjects/FavScripture/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/israelcarvajal/AndroidStudioProjects/FavScripture/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-f1ef02268563aac48a2faf421d99d4dedc2659c1.jar" />
+    </item>
+    <item
+        jar="/Users/israelcarvajal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/israelcarvajal/AndroidStudioProjects/FavScripture/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-cc84dc657f91b2e2ac172911a9c2ef1147cc4451.jar" />
+    </item>
+    <item
+        jar="/Users/israelcarvajal/AndroidStudioProjects/FavScripture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/israelcarvajal/AndroidStudioProjects/FavScripture/app/build/intermediates/pre-dexed/debug/classes-db70489c5e2e8392e8e393b6c29e5d6098e16879.jar" />
+    </item>
+    <item
+        jar="/Users/israelcarvajal/AndroidStudioProjects/FavScripture/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/israelcarvajal/AndroidStudioProjects/FavScripture/app/build/intermediates/pre-dexed/debug/classes-5cb1a78da6b73a79f519037e1e48e037de8baa86.jar" />
+    </item>
+
+</items>
